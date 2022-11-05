@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sharjeelmaniyar
+- 👀 I’m interested in html, css, js, and designing
+- 🌱 I’m currently learning unity to build metaverse
+- 💞️ I’m looking to collaborate on new startups
+- 📫 reach me at maniyar.sharjeel@gmail.com
